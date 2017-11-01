@@ -2,11 +2,15 @@ body {
   color:green;
 background-color:black;
 font-family: 'Indie Flower', cursive;
-font-size:50pt;
+font-size:30pt;
+
 }
+
 
 h1 {
 color:purple;
 
 font-size:40pt;
 }
+td {
+font-size:30; }
